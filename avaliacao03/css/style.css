@@ -58,3 +58,13 @@ body {
 img{
     width: 300px;
 }
+.icone {
+    width: 30px;
+    padding: 5px;
+}
+.main {
+    width: 80%;
+    margin: 20px auto;
+    padding: 5px;
+    background-color: white;
+}
